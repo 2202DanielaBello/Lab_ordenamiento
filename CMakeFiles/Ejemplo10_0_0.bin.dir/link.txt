@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/Ejemplo10_0_0.bin.dir/src/files_ops1.c.o CMakeFiles/Ejemplo10_0_0.bin.dir/src/funciones_gr2.c.o CMakeFiles/Ejemplo10_0_0.bin.dir/src/main.c.o -o bin/Ejemplo10_0_0.bin 
